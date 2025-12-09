@@ -1,0 +1,23 @@
+# Model files
+*.pth
+*.pt
+*.pkl
+
+# Data files
+*.csv
+*.xlsx
+
+# Generated directories
+audio/
+pictures/
+dataset/
+
+# Temporary files
+temp_audio.mp3
+__pycache__/
+*.pyc
+
+# Environment
+venv/
+env/
+.env

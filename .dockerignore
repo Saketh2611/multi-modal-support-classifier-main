@@ -1,0 +1,26 @@
+# --- Virtual Environments ---
+venv/
+env/
+.env
+
+# --- Generated Data Folders (THIS WAS MISSING) ---
+audio/
+pictures/
+
+# --- Git & IDE ---
+.git/
+.gitignore
+.vscode/
+.idea/
+
+# --- Cache & Temp Files ---
+__pycache__/
+*.pyc
+temp_audio.mp3
+
+# --- Training Data & Logs ---
+all_tickets_processed_improved_v3.csv
+prediction_logs.csv
+dataset.py
+process.py
+train.py
