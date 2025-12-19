@@ -10,6 +10,11 @@ It leverages:
 
 ---
 
+## PROJECT WORKFLOW 
+```
+https://miro.com/app/board/uXjVGZM3-Z4=/?share_link_id=475132053421
+```
+---
 ## 📁 Project Contents
 
 Here are the important files included in this repository:
