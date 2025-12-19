@@ -29,7 +29,6 @@ Here are the important files included in this repository:
 | `dataset/` | Folder containing raw images and audio for training |
 | `prediction_logs.csv` | Automatically generated log of all user predictions |
 
-> **Note**: `requirements.txt` is not included. You can install the needed packages manually (see steps below).
 
 ---
 
